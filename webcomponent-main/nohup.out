@@ -1,0 +1,4 @@
+  File "componentServer", line 1
+SyntaxError: Non-UTF-8 code starting with '\xb4' in file componentServer on line 2, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "componentServer", line 1
+SyntaxError: Non-UTF-8 code starting with '\xb4' in file componentServer on line 2, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
